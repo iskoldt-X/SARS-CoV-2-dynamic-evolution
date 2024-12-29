@@ -1,5 +1,7 @@
 # SARS-CoV-2-dynamic-evolution
 
+[Dynamic analysis of SARS-CoV-2 evolution based on different countries](https://doi.org/10.1016/j.gene.2024.148426)
+
 A comprehensive analysis of SARS-CoV-2 evolution based on mutation prevalence across different countries.
 
 ## Overview
